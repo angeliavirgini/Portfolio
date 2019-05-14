@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(254, 220, 255);
+}
+h1 {
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px 2px rgb(255,255,255);
+}
+main {
+    width: 100%;
+    padding-right:100px;
+    padding-left: 100px;
+} 
+.left {
+    background-color:  rgb(255,255,255);
+    float: left;
+    width: 50%;
+    height:400px;
+}
+.right {
+    background-color: rgb(0,0,0);
+    float: right;
+    width: 50%;
+    height:380px;
+    padding-top: 20px;
+}
+.footer {
+    padding-top: 50px;
+}
+.white {
+    font-family: 'Pacifico', cursive;
+    color: rgb(255,255,255);
+    text-shadow: 2px 2px 2px rgb(0,0,0);
+}
+h3 {
+    font-family: 'Permanent Marker', cursive;
+}
+p {
+    font-family: 'Indie Flower', cursive;
+}
